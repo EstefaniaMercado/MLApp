@@ -1,0 +1,6 @@
+# ide
+.vscode
+.history
+
+# dependencies
+/node_modules
